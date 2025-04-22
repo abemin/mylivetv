@@ -18,13 +18,13 @@ Click on ‘Open Anyway’ where it says “Sideloadly” was blocked from use b
 [![Sideload apps on iPhone](https://ioshacker.com/wp-content/uploads/2023/01/Install-Sideloadly-1-1024x690.jpg)](https://ioshacker.com/wp-content/uploads/2023/01/Install-Sideloadly-1.jpg)
 
 **Step 5.** 
-- Download the MyLiveTV app IPA file from the official [Streamer GitHub page](https://github.com/abemin/mylivetv).
+- Download the MyLiveTV app IPA file from the official [Abemin GitHub page](https://github.com/abemin/mylivetv).
 
 **Step 6.** 
 - Connect your Apple TV to the same network as your Mac computer. 
 - On your Apple TV, go to **Settings** > **Remotes & Devices** > **Remote App & Devices** and keep it on that screen so Sideloadly will detect your Apple TV.
 - You only need to do this for the first time connection.
-![Simulator Screenshot - Apple TV 4K (3rd generation) - 2023-08-10 at 10 22 16](https://github.com/StreamerApp/Streamer/assets/96978272/a5dd0a07-0fc4-4429-a308-256542e96473)
+![Simulator Screenshot - Apple TV 4K (3rd generation) ](https://github.com/StreamerApp/Streamer/assets/96978272/a5dd0a07-0fc4-4429-a308-256542e96473)
 
 **Step 7.** 
 - Launch Sideloadly on your Mac computer and select your Apple TV from the device list. Drag and drop the Streamer IPA file into the IPA field in Sideloadly.
@@ -37,8 +37,6 @@ Click on ‘Open Anyway’ where it says “Sideloadly” was blocked from use b
 - If it is the first time sideloading with this Apple ID, you will need to enter your password.
 
 **Step 8.** 
-- Wait for Sideloadly to finish installing Streamer on your Apple TV. You should see a confirmation message when it is done.
-![Simulator Screenshot - Apple TV 4K (3rd generation) - 2023-08-10 at 10 38 08](https://github.com/abemin/mylivetv/blob/9433499b5b015729a8bdf8691feae0f954b342cc/assets/front.jpeg)
+- Wait for Sideloadly to finish installing MyLiveTV on your Apple TV. You should see a confirmation message when it is done.
+![Simulator Screenshot - Apple TV 4K (3rd generation) ](https://github.com/abemin/mylivetv/blob/9433499b5b015729a8bdf8691feae0f954b342cc/assets/front.jpeg)
 
-
-Tutorial Created by @JohnLu
