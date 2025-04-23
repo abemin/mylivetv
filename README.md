@@ -2,7 +2,7 @@
    <img src="https://github.com/abemin/mylivetv/blob/022498c7c3699acc1e9f5c47f6f81151779bdf57/assets/appicon1.png">
 </p>
 
-MYLIVEtv
+MyLiveTV
 App for Streaming Malaysia Live TV on tvOS
 
 Channels List
