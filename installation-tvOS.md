@@ -28,7 +28,7 @@ Click on ‘Open Anyway’ where it says “Sideloadly” was blocked from use b
 
 **Step 7.** 
 - Launch Sideloadly on your Mac computer and select your Apple TV from the device list. Drag and drop the MyLiveTV IPA file into the IPA field in Sideloadly.
-<img width="712" alt="Screenshot 2023-08-04 at 16 08 49" src="https://github.com/StreamerApp/Streamer/assets/96978272/2a61cf04-1d02-4991-bf85-7a49ed2ce7de">
+<img width="712" src="https://github.com/abemin/mylivetv/blob/6660d6e0903f0c5bb3d0e613f2df51af9f14d708/assets/sideloadly.png">
 
 **Step 6.** 
 - Enter the Apple ID that your Apple TV is connected to and click the Start button.
